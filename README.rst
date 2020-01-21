@@ -95,7 +95,7 @@ A self-upgrading process is available which must be triggered by a shell command
 Where can I download ready-built releases of SUSI.AI?
 *********
 
-The latest binary built can be downloaded from
+The latest binary built can be downloaded from sai ganesh
 http://download.susi.ai/susi_server/susi_server_binary_latest.tar.gz
 
 To run susi, do:
